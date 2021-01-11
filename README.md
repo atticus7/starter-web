@@ -14,6 +14,10 @@ Adding section to demonstrate diff/merge
 
 Deploymemt details will go here
 
+## How to Contribute
+
+Please fork this repo
+
 ## Summary
 
 Summary Text Goes here
