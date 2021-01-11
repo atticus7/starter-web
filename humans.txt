@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Ben Neale ben@atticus7.co.uk @beneale
 
 # THANKS
 
