@@ -25,4 +25,4 @@ Summary Text Goes here
 
 ## Copyright
 
-Copyright 2021
+Copyright 2021. All Rights Reserved
